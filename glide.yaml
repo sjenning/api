@@ -1,4 +1,4 @@
-package: github.com/openshift/api
+package: github.com/sjenning/api
 import:
 - package: k8s.io/gengo
   repo:    git@github.com:openshift/kubernetes-gengo

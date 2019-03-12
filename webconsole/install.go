@@ -4,7 +4,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/apimachinery/pkg/runtime/schema"
 
-	webconsolev1 "github.com/openshift/api/webconsole/v1"
+	webconsolev1 "github.com/sjenning/api/webconsole/v1"
 )
 
 const (

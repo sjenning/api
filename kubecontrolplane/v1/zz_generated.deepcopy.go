@@ -5,7 +5,7 @@
 package v1
 
 import (
-	osin_v1 "github.com/openshift/api/osin/v1"
+	osin_v1 "github.com/sjenning/api/osin/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 )
 

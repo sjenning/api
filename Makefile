@@ -2,11 +2,11 @@ all: build
 .PHONY: all
 
 build:
-	go build github.com/openshift/api/...
+	go build github.com/sjenning/api/...
 .PHONY: build
 
 test:
-	go test github.com/openshift/api/...
+	go test github.com/sjenning/api/...
 .PHONY: test
 
 verify:

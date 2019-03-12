@@ -10,7 +10,7 @@ import (
 	"k8s.io/apimachinery/pkg/runtime/serializer"
 	utilruntime "k8s.io/apimachinery/pkg/util/runtime"
 
-	configv1 "github.com/openshift/api/config/v1"
+	configv1 "github.com/sjenning/api/config/v1"
 )
 
 var testScheme = runtime.NewScheme()

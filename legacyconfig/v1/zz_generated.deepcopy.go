@@ -5,7 +5,7 @@
 package v1
 
 import (
-	build_v1 "github.com/openshift/api/build/v1"
+	build_v1 "github.com/sjenning/api/build/v1"
 	core_v1 "k8s.io/api/core/v1"
 	runtime "k8s.io/apimachinery/pkg/runtime"
 )
